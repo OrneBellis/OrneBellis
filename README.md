@@ -1,5 +1,11 @@
-### Hi there 👋
-
+# Hello there, my name is Orne👋
+### I'm an Executive Assistant in an important industrial company in Argentina. 
+My work requires a lot of commitment and dedication, just like my studies. I love learning new things and in the future I would consider myself very lucky if I could use these knowledge in my daily work.
+## Learned skills
+- HTML
+- CSS
+- Javascript
+- Soft skills
 <!--
 **OrneBellis/OrneBellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
