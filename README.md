@@ -6,6 +6,10 @@ My work requires a lot of commitment and dedication, just like my studies. I lov
 - CSS
 - Javascript
 - Soft skills
+## Contact me
+[LinkedIn](https://www.linkedin.com/in/ornella-nerea-bellis/)
+
+[GitHub](https://github.com/OrneBellis)
 <!--
 **OrneBellis/OrneBellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
