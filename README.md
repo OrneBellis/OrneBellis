@@ -1,5 +1,5 @@
 # Hello there, my name is Orne👋
-### I'm an Executive Assistant in an important industrial company in Argentina. 
+### I'm an Executive Assistant at an important industrial company in Argentina. 
 My work requires a lot of commitment and dedication, just like my studies. I love learning new things and in the future I would consider myself very lucky if I could use these knowledge in my daily work.
 ## Learned skills
 - HTML
